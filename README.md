@@ -1,1 +1,3 @@
-# deliverscript
+# maven-project
+
+Simple Maven Project
